@@ -30,7 +30,7 @@ This project solves that by creating an AI-powered research assistant capable of
 ---
 
 # ⚙️ Tech Stack
----
+
  * Groq
  * LangChain
  * Tavily Search API
